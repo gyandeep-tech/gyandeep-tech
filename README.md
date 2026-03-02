@@ -91,6 +91,16 @@ MySQL • MongoDB • Power BI • Git • GitHub
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gyandeep-tech/gyandeep-tech/output/snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/gyandeep-tech/gyandeep-tech/output/snake.svg">
+  </picture>
+</div>
+---
+
 ## 🌱 Currently Exploring
 
 - Advanced Machine Learning

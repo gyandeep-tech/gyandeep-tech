@@ -26,7 +26,7 @@
 - 🏫 Jaypee University of Engineering & Technology (CGPA: 7.0)  
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Web Development**
 - 💡 Love building intelligent systems that solve real-world problems  
-- 🏀 Basketball Team Member | 🎨 Sketching Enthusiast  
+    
 
 ---
 
